@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/e30c1df7-9e00-4c83-8a27-18cbafe9678c
+
+
+
+
+
 # ✦ Multi-Format RAG Question-Answering Agent
 
 A premium, futuristic, multi-format Retrieval-Augmented Generation (RAG) AI Chatbot that lets you upload **PDF, JSON, Excel (.xlsx/.xls), or CSV** documents and ask questions in real time.
